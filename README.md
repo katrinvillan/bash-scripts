@@ -36,6 +36,8 @@ $ ./email-html-format.sh "sample-email-source.csv"
 ```
 Sample output :
 
+![image](docs/sample-output-email-html-format.jpg)
+
 With Cygwin, you can view the results immediately in a text file (path : \var\spool).
 
 ## Built With
