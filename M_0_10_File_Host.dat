@@ -1,0 +1,31 @@
+
+M_10_File
+
+[HOST]
+[ALL]
+
+[EQUIPMENT]
+prd-l001
+mansvr
+April 11, 2017
+admin
+prd-l002
+svrusr
+November 10, 2018
+admin
+prd-l003
+anyusrusr
+January 15, 2018
+guest
+prd-l002
+svrusr
+November 10, 2018
+admin
+prd-l001
+mansvr
+April 11, 2017
+admin
+prd-l002
+svrusr
+November 10, 2018
+admin
